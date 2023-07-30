@@ -141,18 +141,14 @@ h1 {
   font-size: 20px;
   font-weight: bold;
   margin: 10px 0;
-  color: #615151;
 }
 
-
+body span{
+  color: #c970a1;
+  background-color: #EFE2D9;
+}
 .badge {
   margin: 5px;
-  border-radius: 20px;
-
-}
-
-.htmlspan {
-  color: #c970a1;
 
 }
 
